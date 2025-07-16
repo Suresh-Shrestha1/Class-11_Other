@@ -45,8 +45,8 @@
 ## 🚀 Getting Started
 
 1. **📖 Open the PDFs** using any standard PDF viewer.  
-2. **👀 Study the Concepts** — focus on CPU-memory interaction and internal design.  
-3. **🛠️ Apply Your Knowledge** — use insights to complete lab tasks or prepare for exams.
+2. **👀 Study the Concepts** - focus on CPU-memory interaction and internal design.  
+3. **🛠️ Apply Your Knowledge** - use insights to complete lab tasks or prepare for exams.
 
 ---
 
