@@ -1,7 +1,7 @@
 # 🧠 Lab 10: Computer Architecture Overview  
 **Explore the heart of the computer — the CPU and memory systems**
 
----
+-------
 
 ## 📂 Files Included
 
