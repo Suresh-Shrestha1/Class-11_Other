@@ -59,7 +59,7 @@
    - ➡️ Arrows (data flow)  
    - 🗒️ Text boxes (labels)  
 4. Use **Align** and **Group** tools for clean organization.  
-5. Save as **PDF** for easy sharing or printing.
+5. Save as **PDF or DOC** for easy sharing or printing.
 
 ---
 
