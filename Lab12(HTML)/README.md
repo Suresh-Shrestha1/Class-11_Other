@@ -58,7 +58,7 @@ HTML tables are used to organize data into rows and columns. They are created us
 - Learn how to add headers, data, and captions to tables.
 - Practice using table attributes for styling and layout.
 
-## 🧩 FFurther Exploration
+## 🧩 Further Exploration
 
 - Try adding more rows or columns to the tables.
 - Experiment with different border colors, cell padding, and spacing values.
