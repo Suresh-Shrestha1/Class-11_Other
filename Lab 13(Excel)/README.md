@@ -136,6 +136,7 @@ In this formula, means **(subject * credit hours of the subject) / Total Credit 
 ```
 =SUM(C4:H4)
 ```
+It is the total marks of the student which they have get.
 
 ### 📈  Percentage:
 ```
