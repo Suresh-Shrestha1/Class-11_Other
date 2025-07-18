@@ -90,6 +90,8 @@ If **any one** subject falls below the minimum, the result will be **Fail**.
 ```excel
 GPA = (EngGP*3 + NepGP*2.25 + SocGP*3.75 + EcoGP*3.75 + AccGP*3.75 + CSGP*2.5) / 19
 ```
+In this formula, means subject * credit hours of the subject.
+
 ## 💡 Examples for Better Understanding
 
 ### 🎯 Example 1: High Performing Student
