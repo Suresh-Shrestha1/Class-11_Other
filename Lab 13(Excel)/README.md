@@ -136,7 +136,8 @@ In this formula, means **(subject * credit hours of the subject) / Total Credit 
 ```
 =SUM(C4:H4)
 ```
-It is the total marks of the student which they have get.
+- Purpose: Calculates the total marks obtained by a student across all subjects.
+- Explanation: Adds up the marks from cells C4 to H4, which represent individual subject scores, to give the overall total marks.
 
 ### 📈  Percentage:
 ```
