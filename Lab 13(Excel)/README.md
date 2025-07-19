@@ -171,6 +171,8 @@ In this formula, means **(subject * credit hours of the subject) / Total Credit 
 ```
 =(R4*3 + S4*2.25 + T4*3.75 + U4*3.75 + V4*3.75 + W4*2.5) / 19
 ```
+- Purpose: Calculates the overall GPA based on weighted grade points.
+- Explanation: Multiplies each subject’s grade point (from R4 to W4) by its respective credit hours, adds them, and divides the total by 19 (sum of credit hours) to get the weighted average GPA.
 
 ## 👩‍🏫 Instructions for Use
 - Input marks in columns C to H (English to Computer Science)
