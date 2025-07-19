@@ -143,6 +143,8 @@ In this formula, means **(subject * credit hours of the subject) / Total Credit 
 ```
 =I4/4.25
 ```
+- Purpose: Calculates the percentage of the total score.
+- Explanation: Divides the total marks in cell I4 by the maximum possible marks (4.25), converting the result into a percentage score.
 
 ### 🛡️ Result (Pass/Fail Logic):
 ```
