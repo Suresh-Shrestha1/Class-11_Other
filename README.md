@@ -5,3 +5,5 @@
 - Word
 - HTML (Table)
 - Excel (Resut)
+
+Proper README file has been provide inside the folder. In README file I have try to describe what I have done and different things.
