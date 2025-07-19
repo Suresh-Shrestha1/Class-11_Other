@@ -239,6 +239,7 @@ Below is a summary of student performance from the First Terminal Examination of
 | 10   | Sohan Shrestha   | 57  | 41  | 31  | 40  | 34  | 30 | 233    | 54.82 | Pass   | 2.42 |
 
 > 🎯 **Top Performer**: *Bhushan Dahal* with a GPA of **3.21** and total marks **315/425**
+> 
 > ⚠️ **Needs Improvement**: *Shyam Shah* and *Sohan Shrestha* have GPAs just above 2.40
 
 ---
